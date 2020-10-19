@@ -1,6 +1,6 @@
 # chatbot-4444
 
-Team members are : 18PA1A04F9  ,  18PA1A05B2  , 18PA1A0557  // We, together done this project sir .
+Team members are : 18PA1A0557 ,  18PA1A04F9  ,  18PA1A05B2   // We, together done this project sir .
 
 
 Objective: This is our Chat Bot which is "ticket booking at an Amuesment Park" .
@@ -24,3 +24,9 @@ reference links are : 1. https://www.youtube.com/watch?v=C6X71gjB9pA  for having
                          2. https://www.codesnail.com/simple-password-generator-using-python/    with the help of this i understand how to use random for generations.
 
 block diagram link : https://photos.app.goo.gl/fa1CRwh8NPVP4beYA
+
+YouTube link : https://youtu.be/QPcyk4hWU-8
+
+Detailed explanation video of our chatbot : https://youtu.be/yQEAnXGPlZE
+
+
