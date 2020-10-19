@@ -22,3 +22,5 @@ This is program for a  chat bot ....
 
 reference links are : 1. https://www.youtube.com/watch?v=C6X71gjB9pA  for having an idea that how to design a chat bot model.
                          2. https://www.codesnail.com/simple-password-generator-using-python/    with the help of this i understand how to use random for generations.
+
+block diagram link : https://photos.app.goo.gl/fa1CRwh8NPVP4beYA
